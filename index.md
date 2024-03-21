@@ -14,3 +14,7 @@ a tiny change to index.md
 ```javascript
 const fn = () => { return null }
 ```
+
+- [ ] Be sure to go to Marunouchi and buy neckless for the girlfriend.
+- [ ] Wash my shirts.
+- [x] Take a walk in the evening. 
